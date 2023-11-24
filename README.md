@@ -20,3 +20,11 @@ La idea general de este reto es que al uno entrar a la página se muestren las c
 1. Agregar redux al proyecto (https://react-redux.js.org/introduction/getting-started)
 2. Añadir a la barra de navegación un botón para manejar el tema de la página (modo diurno/nocturno)
 3. Al darle click al botón, se deben cambiar los estilos de los componentes para que cuadren con estos modos (usar redux para manejar esta lógica)
+
+## Reto 4
+
+1. Instalar react-router "npm i react-router-dom"
+2. Agregar una barra de navegación donde estará: El botón de cambio de tema, un botón para volver a "Home" donde se verán otra vez todas las cartas
+3. Utilizar las rutas dinámicas para crear una página por juego, donde se deberá tener mínimo: nombre, titulo, descripción. (Puedes agregar más cosas que creas que harán la página más entretenida)
+
+Documentación útil: https://reactrouter.com/en/main/start/overview

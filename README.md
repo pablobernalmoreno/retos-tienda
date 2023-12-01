@@ -28,3 +28,11 @@ La idea general de este reto es que al uno entrar a la página se muestren las c
 3. Utilizar las rutas dinámicas para crear una página por juego, donde se deberá tener mínimo: nombre, titulo, descripción. (Puedes agregar más cosas que creas que harán la página más entretenida)
 
 Documentación útil: https://reactrouter.com/en/main/start/overview
+
+## Reto 5
+
+1. Crear una página (por ahora pública) donde puedas hacer 1 de las siguientes operaciones (POST, PUT, DELETE)
+2. Usar un componente que te permita elegir cuál acción elegir (ejemplo: https://ant.design/components/select)
+3. Dependiendo de la acción a elegir, se debe mostrar un formulario en la página
+4. Realizar la acción elegida
+5. Mostrar de alguna forma si la acción se resolvió bien o falló (ejemplo: https://ant.design/components/alert)

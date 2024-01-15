@@ -36,3 +36,13 @@ Documentación útil: https://reactrouter.com/en/main/start/overview
 3. Dependiendo de la acción a elegir, se debe mostrar un formulario en la página
 4. Realizar la acción elegida
 5. Mostrar de alguna forma si la acción se resolvió bien o falló (ejemplo: https://ant.design/components/alert)
+
+## Reto 6
+1. Añadir usuarios a la base de datos de usuarios (otra diferente a la de los items)
+2. Algunos usuarios tendrán permisos de administrador
+3. En la aplicación manejar diferentes rutas, unas para los administradores (estos pueden editar, borrar y añadir nuevos items) y otras para el público general
+4. Añadir un formulario de inicio de sesión para comparar al usuario de la sesión con el usuario en la base de datos
+5. Añadir en el formulario otro para crear usuario si no existe (este usuario nuevo que se cree por este método NO será admin)
+6. Opcional: Añadir a la barra de navegación los datos del usuario en sesión
+7. Opcional: Añadir una página donde el administrador pueda coger a algún usuario existente y darle poderes de admin
+

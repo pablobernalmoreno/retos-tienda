@@ -42,7 +42,10 @@ Documentación útil: https://reactrouter.com/en/main/start/overview
 2. Algunos usuarios tendrán permisos de administrador
 3. En la aplicación manejar diferentes rutas, unas para los administradores (estos pueden editar, borrar y añadir nuevos items) y otras para el público general
 4. Añadir un formulario de inicio de sesión para comparar al usuario de la sesión con el usuario en la base de datos
-5. Añadir en el formulario otro para crear usuario si no existe (este usuario nuevo que se cree por este método NO será admin)
-6. Opcional: Añadir a la barra de navegación los datos del usuario en sesión
-7. Opcional: Añadir una página donde el administrador pueda coger a algún usuario existente y darle poderes de admin
+
+## Reto 7
+1. Reto muy sencillo, vamos a implementar custom hooks!
+6. Añadir en el formulario otro para crear usuario si no existe (este usuario nuevo que se cree por este método NO será admin)
+7. Opcional: Añadir a la barra de navegación los datos del usuario en sesión
+8. Opcional: Añadir una página donde el administrador pueda coger a algún usuario existente y darle poderes de admin
 

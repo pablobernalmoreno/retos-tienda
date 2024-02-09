@@ -38,14 +38,20 @@ Documentación útil: https://reactrouter.com/en/main/start/overview
 5. Mostrar de alguna forma si la acción se resolvió bien o falló (ejemplo: https://ant.design/components/alert)
 
 ## Reto 6
+
 1. Añadir usuarios a la base de datos de usuarios (otra diferente a la de los items)
 2. Algunos usuarios tendrán permisos de administrador
 3. En la aplicación manejar diferentes rutas, unas para los administradores (estos pueden editar, borrar y añadir nuevos items) y otras para el público general
 4. Añadir un formulario de inicio de sesión para comparar al usuario de la sesión con el usuario en la base de datos
 
 ## Reto 7
+
 1. Reto muy sencillo, vamos a implementar custom hooks!
 6. Añadir en el formulario otro para crear usuario si no existe (este usuario nuevo que se cree por este método NO será admin)
 7. Opcional: Añadir a la barra de navegación los datos del usuario en sesión
 8. Opcional: Añadir una página donde el administrador pueda coger a algún usuario existente y darle poderes de admin
 
+## Reto 8
+1. Reto donde implementaremos pruebas unitarias con jest, enzyme o react testing library
+2. Acá la configuración de Jest y Enzyme: https://www.codementor.io/@rajjeet/get-started-with-react-testing-jest-enzyme-4-easy-steps-1dn5180mzr
+3. Acá la documentación de React testing library: https://testing-library.com/docs/react-testing-library/intro/
